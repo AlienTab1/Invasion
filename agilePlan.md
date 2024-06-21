@@ -66,7 +66,7 @@ We will conduct two sprints, each lasting one day. The goal is to develop a play
 - Discuss what went well and what could be improved.
 - Plan any adjustments for the next sprint.
 
-## Sprint 2: Game Polishing and Additional Features (2 Weeks)
+## Sprint 2: Game Polishing and Additional Features
 
 ### Goals
 - Polish existing game mechanics and graphics.
